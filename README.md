@@ -42,14 +42,15 @@ Follow these steps to set up the project locally:
 2. **Install Dependencies**:
 
 
-npm install
+ npm install
 
-3.**Run the Application**:
+ 3.**Run the Application**:
 
 
-npm start
+ npm start
 
-4. Visit in Browser: Open **http://localhost:3000** in your browser.
+ 4. Visit in Browser: Open **http://localhost:3000** in your browser.
+ 5. 
 
  ## 🧪 API Integration
  
@@ -60,16 +61,6 @@ The project integrates with the Open-Meteo Historical Weather API to fetch weath
 - Start Date
 - End Date
   
-  API- **https://open-meteo.com/en/docs/historical-weather-api**
-weather-dashboard/
-├── public/
-├── src/
-│   ├── components/        # Reusable components
-│   ├── pages/             # Main dashboard page
-│   ├── styles/            # Tailwind CSS configurations
-│   ├── utils/             # API integration and helpers
-│   └── App.js             # Entry point
-├── package.json
-├── README.md
-└── .gitignore
+API- **https://open-meteo.com/en/docs/historical-weather-api**
+
   
