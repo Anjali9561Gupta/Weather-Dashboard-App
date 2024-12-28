@@ -42,15 +42,15 @@ Follow these steps to set up the project locally:
 2. **Install Dependencies**:
 
 
- npm install
+   npm install
 
- 3.**Run the Application**:
+3.**Run the Application**:
 
 
- npm start
+    npm start
 
  4. Visit in Browser: Open **http://localhost:3000** in your browser.
- 5. 
+  
 
  ## 🧪 API Integration
  
