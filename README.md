@@ -2,8 +2,9 @@
 
 A **Front-End Development Challenge** to create a responsive and interactive dashboard for visualizing historical weather data using the **Open-Meteo Historical Weather API**.
 
-## 🌐 Hosted Demo
-Explore the live demo of the project here:
+
+### 🌐 Hosted Demo
+Explore the live demo of the project here:**https://weather-dashboard-app-zeta.vercel.app/**
 
 ## 🚀 Features
 
